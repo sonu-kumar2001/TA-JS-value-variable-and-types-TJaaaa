@@ -26,5 +26,4 @@ console.log(`${amount}`);
 bank_balance > amount
 	? console.log("I can afford")
     : console.log("I can't afford");
-    
 // ⛑ Answer of the above will `$334.76`.
