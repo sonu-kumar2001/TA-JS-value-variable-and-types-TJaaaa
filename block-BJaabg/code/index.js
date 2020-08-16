@@ -22,7 +22,7 @@ while (bank_balance>=amount ) {
 }
 
 amount = amount + amount * TAX_RATE;
-console.log(`${amount}`);
+console.log(`$${amount}`);
 bank_balance > amount
 	? console.log("I can afford")
     : console.log("I can't afford");
