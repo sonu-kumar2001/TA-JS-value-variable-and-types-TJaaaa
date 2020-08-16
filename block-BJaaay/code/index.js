@@ -22,8 +22,8 @@ for (let i= 1; i<=10; i++) {
 let sum = 0;
 for (let i= 1; i<=10; i++) {
     sum += i;
-    console.log(sum);
 }
+console.log(sum);
 // Log all the values from 1 to 10 using while loop
 let i = 1;
 while (i<=10) {
